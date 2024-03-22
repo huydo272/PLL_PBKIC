@@ -50,7 +50,7 @@ Our team simultion cover mostly DC, Transient and Noise
 We have researched and evaluated the software and PDK in depth, then concluded that:
 - Installing the software is relatively simple and able to be installed within 1 hour.
 - Drawing a schematic is accessible for design engineers. However, the software is not stable, and cannot be used smoothly. The lack of automatic storage caused us to have to redraw the circuit several times. The good thing is that it is easy to install. When opening the software, there is a test table of available devices that is easy to understand.
-- When simulating, it is quite difficult to set up the source and lack of simulation tool's features: Changing the way the measurement table is presented is not available, no lack of simulations for RF such as PSS simulation,...
+- When simulating, it is quite difficult to set up the source and lack of simulation tool's features: Changing the way the measurement table is presented is limited, lack of simulations for RF such as PSS simulation,...
 - PDK documents are accessible and open source, but many symbols and abbreviations are not annotated, making it difficult for design engineers to understand.
 Hopefully with the above contributions, the software and PDK will improve in the future.
 
