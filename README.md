@@ -2,6 +2,7 @@
 - Submission for Chipalooza Analog And Mixed-Signal Design Challenge
 - IP Block Name: Phase lock Loop 
 - Design Team: PBKIC
+- Member: Huy Do-Quang: huyquangdo2721999@gmail.com; Khoa Tran-Viet: khoabau8133@gmail.com; Minh Tran-Quang: minhtq9apn@gmail.com; Minh Nguyen-Duy: minhcrazy85@gmail.com; Anh Ha-Viet: havietanh45@gmail.com; Xuan Tran-Văn: tranxuanypbn17@gmail.com;
 
 ## Circuit Description
 | Parameter                           | Min | Typical | Max        | Unit   | Notes |
