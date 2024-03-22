@@ -3,9 +3,6 @@
 - IP Block Name: Phase lock Loop 
 - Design Team: PBKIC
 
-![image](https://github.com/huydo272/PLL_PBKIC/assets/84896940/45c77927-8abb-4743-a641-78b7dfd1d5b2)
-
-
 ## Circuit Description
 | Parameter                           | Min | Typical | Max        | Unit   | Notes |
 | ----------------------------------- | --- | ------- | ---------- | ------ | ----- |
@@ -30,6 +27,9 @@
 |gnd|ground| |
 |vref|input reference frequency| |
 |fout|ouput frequency| |
+
+
+![image](https://github.com/huydo272/PLL_PBKIC/assets/84896940/45c77927-8abb-4743-a641-78b7dfd1d5b2)
 
 ## Circuit Architecture
 
