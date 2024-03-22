@@ -29,7 +29,9 @@
 |fout|ouput frequency| |
 
 
-![image](https://github.com/huydo272/PLL_PBKIC/assets/84896940/45c77927-8abb-4743-a641-78b7dfd1d5b2)
+![image](https://github.com/huydo272/PLL_PBKIC/assets/84896940/7187f4a0-2418-4bd0-a9c2-10020e4b24b1)
+
+
 
 ## Circuit Architecture
 
