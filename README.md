@@ -30,7 +30,8 @@
 |fout|ouput frequency| |
 
 
-![image](https://github.com/huydo272/PLL_PBKIC/assets/84896940/7187f4a0-2418-4bd0-a9c2-10020e4b24b1)
+![image](https://github.com/huydo272/PLL_PBKIC/assets/84896940/14440f5f-27f0-4fde-9548-b257ab9ab4c0)
+
 
 
 
