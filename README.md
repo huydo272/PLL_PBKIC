@@ -23,9 +23,10 @@
 ## Circuit Pinout
 | Pinout | Pin name | Use |
 | --- | --- | --- |
-|avdd|analog power|3.3 - 5V|
-|dvdd|digital power|1.8V|
-|
+|vdd|power|3.3 - 5V|
+|gnd|ground| |
+|vref|input reference frequency| |
+|fout|ouput frequency| |
 
 ## Circuit Architecture
 
@@ -37,7 +38,7 @@ The chosen PLL topology is based on the conventional type II PLL. The block diag
 The main difficulty in designing Progammable PLL is optimizing noise in each block to meet the requirements specification and the FoM of the PLL is approximately -198dB which approach the design spec of the commercial product 
 
 ## Test Bench Required For Verifying Circuit Performance
-Our team simultion cover mosty DC (DC gain,power consumption,  ), Transient and Noise 
+Our team simultion cover mostly DC, Transient and Noise 
 
 ## Sky130NM PDK Review
 We have researched and evaluated the software and PDK in depth, then concluded that:
@@ -48,8 +49,9 @@ We have researched and evaluated the software and PDK in depth, then concluded t
 Hopefully with the above contributions, the software and PDK will improve in the future.
 
 ## Referrences
+- Behzad Razavi. Design of CMOS Phase-Locked Loops: From Circuit Level to Architecture Level. Cambridge University Press; 2020.
 - Behzad Razavi. 2011. RF Microelectronics (2nd Edition) (Prentice Hall Communications Engineering and Emerging Technologies Series) (2nd. ed.). Prentice Hall Press, USA.
-- 
+- Behzad Razavi. 2000. Design of Analog CMOS Integrated Circuits (1st. ed.). McGraw-Hill, Inc., USA.
 
 
 
