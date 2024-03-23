@@ -31,11 +31,7 @@
 
 ## Power Consumption
 
-
 ![image](https://github.com/huydo272/PLL_PBKIC/assets/84896940/14440f5f-27f0-4fde-9548-b257ab9ab4c0)
-
-
-
 
 ## Circuit Architecture
 
