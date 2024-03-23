@@ -24,16 +24,15 @@ Voltage Controlled Ring Oscillator
 
 ## Simulation
 
-- DC Sim:
+- DC Simulation:
 
 ![image](https://github.com/huydo272/PLL_PBKIC/assets/146626889/c4c1f4e5-a0c0-49f3-9c9f-f641aa62f112)
 
 
-- AC Sim:
+- Transient Simulation:
 
 ![image](https://github.com/huydo272/PLL_PBKIC/assets/146626889/ecdf9ab5-b443-47ee-9544-8de0c72bf973)
 
-
-- End result
+![image](https://github.com/huydo272/PLL_PBKIC/assets/84896940/a61710a0-a707-4b7d-9647-e1fdfff7b438)
 
 ![image](https://github.com/huydo272/PLL_PBKIC/assets/146626889/bdd8194d-2318-4645-89e1-c16553c4b49f)
