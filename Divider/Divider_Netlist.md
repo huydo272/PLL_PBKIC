@@ -1,0 +1,28 @@
+**
+**.subckt divider_v2
+
+
+V1 CLK GND pulse(0 3.3 6ns 6p 6p 5ns 10ns)
+V2 VDD GND 3.3
+x5 CLK OUT1 GND GND VDD VDD net1 net12 sky130_fd_sc_hd__dfxbp_1
+x6 CLK net4 GND GND VDD VDD net13 OUT1 sky130_fd_sc_hd__dfxbp_1
+x8 OUT1 OUT2 GND GND VDD VDD net14 OUT2 sky130_fd_sc_hd__dfxbp_1
+x3 CLK OUT3 GND GND VDD VDD net6 net15 sky130_fd_sc_hd__dfxbp_1
+x9 CLK net8 GND GND VDD VDD net16 OUT3 sky130_fd_sc_hd__dfxbp_1
+x11 OUT3 OUT4 GND GND VDD VDD net17 OUT4 sky130_fd_sc_hd__dfxbp_1
+x14 CLK OUT5 GND GND VDD VDD net10 net18 sky130_fd_sc_hd__dfxbp_1
+x15 CLK net11 GND GND VDD VDD net19 OUT5 sky130_fd_sc_hd__dfxbp_1
+x16 OUT5 OUT6 GND GND VDD VDD net20 OUT6 sky130_fd_sc_hd__dfxbp_1
+x17 CLK OUT1 OUT5 OUT2 S0 S1 GND GND VDD VDD net2 sky130_fd_sc_hd__mux4_1
+x18 OUT2 OUT6 OUT4 OUT4 S0 S1 GND GND VDD VDD net3 sky130_fd_sc_hd__mux4_1
+x19 net2 net3 S2 GND GND VDD VDD OUT sky130_fd_sc_hd__mux2_1
+V3 S0 GND 0
+V4 S2 GND 0
+V5 S1 GND 0
+x20 net10 OUT5 GND GND VDD VDD net11 sky130_fd_sc_hd__and2_0
+x7 net1 net5 GND GND VDD VDD net21 sky130_fd_sc_hd__or2_0
+x4 net21 OUT1 GND GND VDD VDD net4 sky130_fd_sc_hd__and2_0
+x2 S0 OUT2 GND GND VDD VDD net5 sky130_fd_sc_hd__or2_0
+x10 OUT3 net9 GND GND VDD VDD net7 sky130_fd_sc_hd__or2_0
+x12 S0 OUT4 GND GND VDD VDD net9 sky130_fd_sc_hd__or2_0
+x1 net6 net7 GND GND VDD VDD net8 sky130_fd_sc_hd__and2_0
