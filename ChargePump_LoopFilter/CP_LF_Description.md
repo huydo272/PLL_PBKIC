@@ -37,11 +37,23 @@
 
 <img width="742" alt="image" src="https://github.com/huydo272/PLL_PBKIC/assets/84896940/ec2e6566-019a-4ca6-8b27-303283fcbc49">
 
-## Sizing
+## Sizing (L = 0.5 um for all MOSFETs)
 
-|Block|MOS|Size|
-|--|--|--|
-||
+|Block|MOS|W|Unit|
+|Charge pump|M13, M14|2.4|um|
+||M8, M7|1.2|um|
+||M6|60|um|
+||M5, M3|18|um|
+||M9|71.2|um|
+||M10, M1|1.4|um|
+||M9|71.2|um|
+||M12, M2|18|um|
+||M4, M11|71.2|um|
+
+|Block|Component|Value|Unit|
+|Loop filter|C1|8.2|nF|
+||C2|4700|nF|
+||R1|8.2|Ohm|
 
 ## Simulation
 - Transient Simulation Result:
