@@ -41,6 +41,3 @@ We calculate the Kvco and get the result Kvco = 125 Mhz/V
 - Transient Simulation:
 
 ![image](https://github.com/huydo272/PLL_PBKIC/assets/146626889/ecdf9ab5-b443-47ee-9544-8de0c72bf973)
-
-![image](https://github.com/huydo272/PLL_PBKIC/assets/84896940/a61710a0-a707-4b7d-9647-e1fdfff7b438)
-
