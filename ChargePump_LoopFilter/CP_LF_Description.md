@@ -5,13 +5,13 @@
   
 <img width="767" alt="image" src="https://github.com/huydo272/PLL_PBKIC/assets/84896940/ef759e7a-f4e5-48dd-a038-bc2eec075478">
 
-- Circuit Arrchitecture and Timing Diagram:
+- Circuit Architecture and Timing Diagram:
   
 ![image](https://github.com/huydo272/PLL_PBKIC/assets/84896940/87449091-e157-4218-a59d-82d3dc97f05d)
 
 ## Loop Filter Calculation
 
-- Loop Filter Calculation: 
+- Loop Filter Calculation by PLLatinum TI at https://www.ti.com/tool/PLLATINUMSIM-SW#downloads: 
 
 ![image](https://github.com/huydo272/PLL_PBKIC/assets/84896940/c76528fc-39ef-4682-9fb3-7c7684db4676)
 
@@ -19,9 +19,13 @@
 
 ![image](https://github.com/huydo272/PLL_PBKIC/assets/84896940/0ea404fd-13b4-4d25-9727-db44d050a4cc)
 
+- Lock Time Analysis:
+  
 ![image](https://github.com/huydo272/PLL_PBKIC/assets/84896940/0a72e448-8b63-4b8b-899b-f9e1d74235ec)
 
 ![image](https://github.com/huydo272/PLL_PBKIC/assets/84896940/43479efa-f632-4939-860c-01efc0f2f81c)
+
+- Loop Filter Analysis:
 
 ![image](https://github.com/huydo272/PLL_PBKIC/assets/84896940/3f6d432c-0c17-4547-8c6a-314fd60366b0) 
 
