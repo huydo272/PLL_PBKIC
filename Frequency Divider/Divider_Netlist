@@ -1,4 +1,4 @@
-**.subckt divider_v2
+** Divider (version 2)
 V1 CLK GND pulse(0 3.3 6ns 6p 6p 5ns 10ns)
 V2 VDD GND 3.3
 x5 CLK OUT1 GND GND VDD VDD net1 net12 sky130_fd_sc_hd__dfxbp_1
