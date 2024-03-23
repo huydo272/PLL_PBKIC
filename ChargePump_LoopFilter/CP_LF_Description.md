@@ -6,6 +6,17 @@
 
 ![image](https://github.com/huydo272/PLL_PBKIC/assets/84896940/87449091-e157-4218-a59d-82d3dc97f05d)
 - Design 
+## Loop Filter Calculation
+
+![image](https://github.com/huydo272/PLL_PBKIC/assets/84896940/c76528fc-39ef-4682-9fb3-7c7684db4676)
+
+![image](https://github.com/huydo272/PLL_PBKIC/assets/84896940/0ea404fd-13b4-4d25-9727-db44d050a4cc)
+
+![image](https://github.com/huydo272/PLL_PBKIC/assets/84896940/0a72e448-8b63-4b8b-899b-f9e1d74235ec)
+
+![image](https://github.com/huydo272/PLL_PBKIC/assets/84896940/3f6d432c-0c17-4547-8c6a-314fd60366b0)
+
+![image](https://github.com/huydo272/PLL_PBKIC/assets/84896940/074cd2bc-140f-49e6-b402-5cdea6709174)
 
 ## Schematic
 
