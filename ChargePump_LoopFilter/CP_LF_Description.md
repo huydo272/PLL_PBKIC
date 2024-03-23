@@ -21,9 +21,13 @@
 
 ![image](https://github.com/huydo272/PLL_PBKIC/assets/84896940/0a72e448-8b63-4b8b-899b-f9e1d74235ec)
 
+![image](https://github.com/huydo272/PLL_PBKIC/assets/84896940/189d8ea9-d612-414b-a6b0-6cffd1c3e35c)
+
 ![image](https://github.com/huydo272/PLL_PBKIC/assets/84896940/3f6d432c-0c17-4547-8c6a-314fd60366b0)
 
 ![image](https://github.com/huydo272/PLL_PBKIC/assets/84896940/074cd2bc-140f-49e6-b402-5cdea6709174)
+
+
 
 ## Schematic
 
