@@ -29,9 +29,9 @@
 |vref|input reference frequency| |
 |fout|ouput frequency| |
 
-## Power Consumption
+## Top-level schematic
 
-![image](https://github.com/huydo272/PLL_PBKIC/assets/84896940/14440f5f-27f0-4fde-9548-b257ab9ab4c0)
+<img width="478" alt="image" src="https://github.com/huydo272/PLL_PBKIC/assets/84896940/0e6712df-5edd-40ed-aab7-25433926aabd">
 
 ## Circuit Architecture
 
