@@ -8,7 +8,13 @@
 - Design 
 
 ## Schematic
+
 <img width="742" alt="image" src="https://github.com/huydo272/PLL_PBKIC/assets/84896940/ec2e6566-019a-4ca6-8b27-303283fcbc49">
 
+## Sizing
+
+|Block|MOS|Size|
+|--|--|--|
+||
 
 ## Simulation
