@@ -53,7 +53,7 @@ We have researched and evaluated the software and PDK in depth, then concluded t
 - PDK documents are accessible and open source, but many symbols and abbreviations are not annotated, making it difficult for design engineers to understand.
 Hopefully with the above contributions, the software and PDK will improve in the future.
 
-## Referrences
+## References
 - Behzad Razavi. Design of CMOS Phase-Locked Loops: From Circuit Level to Architecture Level. Cambridge University Press; 2020.
 - Behzad Razavi. 2011. RF Microelectronics (2nd Edition) (Prentice Hall Communications Engineering and Emerging Technologies Series) (2nd. ed.). Prentice Hall Press, USA.
 - Behzad Razavi. 2000. Design of Analog CMOS Integrated Circuits (1st. ed.). McGraw-Hill, Inc., USA.
