@@ -8,6 +8,8 @@
 - Design 
 ## Loop Filter Calculation
 
+- Schematic Architecture and Timing Diagram
+
 ![image](https://github.com/huydo272/PLL_PBKIC/assets/84896940/c76528fc-39ef-4682-9fb3-7c7684db4676)
 
 ![image](https://github.com/huydo272/PLL_PBKIC/assets/84896940/0ea404fd-13b4-4d25-9727-db44d050a4cc)
@@ -29,3 +31,4 @@
 ||
 
 ## Simulation
+- Transient Simulation Result
