@@ -31,4 +31,11 @@
 ||
 
 ## Simulation
-- Transient Simulation Result
+- Transient Simulation Result:
+
+<img width="739" alt="image" src="https://github.com/huydo272/PLL_PBKIC/assets/84896940/bae6cab0-2c91-4cfc-8fca-727a7d95298f">
+
+<img width="742" alt="image" src="https://github.com/huydo272/PLL_PBKIC/assets/84896940/1fdb3d98-c299-4ef5-a613-240d508a5e7a">
+
+
+
