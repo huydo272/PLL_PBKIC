@@ -1,4 +1,4 @@
-![image](https://github.com/huydo272/PLL_PBKIC/assets/119403170/34dd26d5-1f70-4706-ba16-0ab7c315a07b)# PLL_PBKIC
+# PLL_PBKIC
 - Submission for Chipalooza Analog And Mixed-Signal Design Challenge
 - IP Block Name: Phase lock Loop 
 - Design Team: PBKIC
