@@ -35,15 +35,15 @@
 
 ## Circuit Architecture
 
-The chosen PLL topology is based on the conventional type II PLL. The block diagram of the PLL is illustrated in Fig…, which includes: a Phase-Frequency Detector, a Charge pump, a Loop Filter, a Voltage controller and a N-Divider. The supposed PLL is designed for the SkyWater 130 nm process and VDD = 3.3V
+The chosen PLL topology is based on the conventional type II PLL. The block diagram of the PLL is illustrated in Fig…, which includes: a Phase-Frequency Detector, a Charge pump, a Loop Filter, a Voltage controller and a N-Divider. The supposed PLL is designed for the SkyWater 130 nm process and VDD = 3.3V.
 
 ![image](https://github.com/huydo272/PLL_PBKIC/assets/84896940/3eda4a4d-d34d-4b39-b286-8310c4c145b7)
 
 ## Specification Challenges
-The main difficulty in designing Progammable PLL is optimizing noise in each block to meet the requirements specification and the FoM of the PLL is approximately -198dB which approach the design spec of the commercial product 
+The main difficulty in designing Progammable PLL is optimizing noise in each block to meet the requirements specification and the FoM of the PLL is approximately -198dB which approach the design spec of the commercial products. 
 
 ## Test Bench Required For Verifying Circuit Performance
-Our team simultion cover mostly DC, Transient and Noise 
+Our simultion covers mostly DC, Transient and Noise Analysis. 
 
 ## Sky130NM PDK Review
 We have researched and evaluated the software and PDK in depth, then concluded that:
