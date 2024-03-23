@@ -40,6 +40,7 @@
 ## Sizing (L = 0.5 um for all MOSFETs)
 
 |Block|MOS|W|Unit|
+|--|--|--|--|
 |Charge pump|M13, M14|2.4|um|
 ||M8, M7|1.2|um|
 ||M6|60|um|
@@ -51,6 +52,7 @@
 ||M4, M11|71.2|um|
 
 |Block|Component|Value|Unit|
+|--|--|--|--|
 |Loop filter|C1|8.2|nF|
 ||C2|4700|nF|
 ||R1|8.2|Ohm|
