@@ -22,12 +22,12 @@
 | Output Divider Value                |     |         |            |        | |
 
 ## Circuit Pinout
-| Pinout | Pin name | Use |
-| --- | --- | --- |
-|vdd|power|3.3 - 5V|
-|gnd|ground| |
-|vref|input reference frequency| |
-|fout|ouput frequency| |
+| Pinout | Pin name | Value | Unit |
+| --- | --- | --- | -- |
+|VDD|Analog powwer, Digital power|3.3 - 5|V|
+|GND|Ground|0|V|
+|V_REF|Input reference frequency voltage|96|MHz|
+|V_OUT|Ouput frequency voltage||MHz|
 
 ## Top-level schematic
 
