@@ -1,17 +1,21 @@
 # Charge pump & Loop filter
 
 ## Desciption
-- Transfer function of Charge pump and Loop filter
+- Transfer function of Charge pump and Loop filter:
+  
 <img width="767" alt="image" src="https://github.com/huydo272/PLL_PBKIC/assets/84896940/ef759e7a-f4e5-48dd-a038-bc2eec075478">
 
-- Cirrcuit Arrchitecture and Timing Diagram
+- Circuit Arrchitecture and Timing Diagram:
+  
 ![image](https://github.com/huydo272/PLL_PBKIC/assets/84896940/87449091-e157-4218-a59d-82d3dc97f05d)
-- Design 
+
 ## Loop Filter Calculation
 
-- Schematic Architecture and Timing Diagram
+- Loop Filter Calculation: 
 
 ![image](https://github.com/huydo272/PLL_PBKIC/assets/84896940/c76528fc-39ef-4682-9fb3-7c7684db4676)
+
+- PLL's Phase Noise at 96 MHz:
 
 ![image](https://github.com/huydo272/PLL_PBKIC/assets/84896940/0ea404fd-13b4-4d25-9727-db44d050a4cc)
 
