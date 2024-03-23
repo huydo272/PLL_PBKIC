@@ -4,16 +4,16 @@
 
 ## Programmable 
 
-|Input|Divider Output Frequency|
-|--|--|
-|000|OUT1|
-|001|OUT2|
-|010|OUT3|
-|011|OUT4|
-|100|OUT5|
-|101|OUT6|
-|110|OUT7|
-|111|OUT8|
+|Input|Divider Output|Divided By|
+|--|--|--|
+|000|OUT1|1|
+|001|OUT2|2|
+|010|OUT3|3|
+|011|OUT4|4|
+|100|OUT5|5|
+|101|OUT6|6|
+|110|OUT7|7|
+|111|OUT8|8|
 
 ## Simulation
 
