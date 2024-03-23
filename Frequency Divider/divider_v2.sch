@@ -142,11 +142,6 @@ C {devices/code_shown.sym} 20 -280 0 0 {name=ngspice only_toplevel=false value="
 tran 1n 200n
 write divider_v2.raw
 .endc"}
-C {devices/code.sym} 250 -290 0 0 {name=lib only_toplevel=false value="
-
-.include /home/xuan/pdk/sky130A/libs.ref/sky130_fd_sc_hd/spice/sky130_fd_sc_hd.spice
-
-
 "}
 C {sky130_stdcells/dfxbp_1.sym} 490 -530 0 0 {name=x5 VGND=GND VNB=GND VPB=VDD VPWR=VDD prefix=sky130_fd_sc_hd__ }
 C {sky130_stdcells/dfxbp_1.sym} 990 -510 0 0 {name=x6 VGND=GND VNB=GND VPB=VDD VPWR=VDD prefix=sky130_fd_sc_hd__ }
