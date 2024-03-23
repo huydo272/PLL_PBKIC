@@ -31,7 +31,7 @@
 
 ## Top-level schematic
 
-<img width="478" alt="image" src="https://github.com/huydo272/PLL_PBKIC/assets/84896940/0e6712df-5edd-40ed-aab7-25433926aabd">
+![test_top_PLL_v2](https://github.com/huydo272/PLL_PBKIC/assets/84896940/0ed168b3-c959-4ed9-bf96-26a3eab0032e)
 
 ## Circuit Architecture
 
