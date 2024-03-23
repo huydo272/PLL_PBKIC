@@ -1,25 +1,25 @@
-# PLL_PBKIC
+![image](https://github.com/huydo272/PLL_PBKIC/assets/119403170/34dd26d5-1f70-4706-ba16-0ab7c315a07b)# PLL_PBKIC
 - Submission for Chipalooza Analog And Mixed-Signal Design Challenge
 - IP Block Name: Phase lock Loop 
 - Design Team: PBKIC
 - Member: Huy Do-Quang: huyquangdo2721999@gmail.com; Khoa Tran-Viet: khoabau8133@gmail.com; Minh Tran-Quang: minhtq9apn@gmail.com; Minh Nguyen-Duy: minhcrazy85@gmail.com; Anh Ha-Viet: havietanh45@gmail.com; Xuan Tran-Văn: tranxuanypbn17@gmail.com;
 
 ## Circuit Description
-| Parameter                           | Min | Typical | Max        | Unit   | Notes |
-| ----------------------------------- | --- | ------- | ---------- | ------ | ----- |
-| Output Frequency Range              |  86 |    96   |     106    |   MHz  |     |
-| Supply Voltage                      |  3  |   3.3   |            |    V   |     |
-| Output Load Capacitance             |     |   1     |         2  |     pF |     |
-| Power Consumption                   |     |     0.1 |        50  |      uA| |
-| Startup Time                        |     |         |            |      us| |
-| Lock Time                           |     |         |            |      us| |
-| Jitter                              |     |         |            |      ps| |
-| Cycle To Cycle Jitter               |     |         |            |      ps| |
-| Output Duty Cycle                   |     |         |            |       %| |
-| Frequency Accuracy                  |     |         |            |       %| |
-| Output Rise/Fall Time               |     |         |            |      ns| |
-| Feedback Divider Value              |     |         |            |        | |
-| Output Divider Value                |     |         |            |        | |
+| Parameter                           | Min | Typical | Max        | This work | Unit   | Estimation |
+| ----------------------------------- | --- | ------- | ---------- | --------- | ------ | ----- |
+| Output Frequency Range              |  86 |    96   |     106    | 39 - 263  |   MHz  |       |
+| Supply Voltage                      |   3 |   3.3   |            |       NI  |    V   |       |
+| Output Load Capacitance             |     |   1     |         2  |       NI  |     pF |       |
+| Power Consumption                   |     |         |        50  |       NI  |      uA|       |
+| Startup Time                        |     |         |        60  |     ~400  |      us|       |
+| Lock Time                           |     |         |        60  |     ~400  |      us|       |
+| Jitter                              |-300 |         |       300  |        1  |      ps|       |
+| Cycle To Cycle Jitter               |     |         |        93  |       NI  |      ps|       |
+| Output Duty Cycle                   |  45 |     50  |        55  |       NI  |       %|       |
+| Frequency Accuracy                  |-0.25|      0  |     -0.25  |       NI  |       %|       |
+| Output Rise/Fall Time               |  0.5|      1  |         2  |       NI  |      ns|       |
+| Feedback Divider Value              |   1 |         |    31.875  |       NI  |        |       |
+| Output Divider Value                |   1 |         |         8  |    1 - 8  |        |       |
 
 ## Circuit Pinout
 | Pinout | Pin name | Value | Unit |
