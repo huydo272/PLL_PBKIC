@@ -206,7 +206,7 @@ lab=#net1}
 N -1080 -710 -990 -710 {
 lab=#net3}
 C {devices/code_shown.sym} 560 -150 0 0 {name=s1 only_toplevel=false value="
-.include /home/dan/pdk/sky130A/libs.ref/sky130_fd_sc_hd/spice/sky130_fd_sc_hd.spice 
+.include /home/huydq/pdk/sky130A/libs.ref/sky130_fd_sc_hd/spice/sky130_fd_sc_hd.spice 
 
 .control
 save all
