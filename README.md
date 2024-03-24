@@ -8,7 +8,7 @@
 | Parameter                           | Min | Typical | Max        | This work | Unit   | Estimation |
 | ----------------------------------- | --- | ------- | ---------- | --------- | ------ | ----- |
 | Output Frequency Range              |  86 |    96   |     106    | 39 - 263  |   MHz  |       |
-| Supply Voltage                      |   3 |   3.3   |            |       NI  |    V   |       |
+| Supply Voltage                      |   3 |   3.3   |      5.5   |      3.3  |    V   |       |
 | Output Load Capacitance             |     |   1     |         2  |       NI  |     pF |       |
 | Power Consumption                   |     |         |        50  |       NI  |      uA|       |
 | Startup Time                        |     |         |        60  |     ~400  |      us|       |
