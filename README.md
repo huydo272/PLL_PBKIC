@@ -7,12 +7,12 @@
 ## Circuit Description
 | Parameter                           | Min | Typical | Max        | This work | Unit   | Estimation |
 | ----------------------------------- | --- | ------- | ---------- | --------- | ------ | ----- |
-| Output Frequency Range              |  86 |    96   |     106    |       39 - 250  |   MHz  |       |
+| Output Frequency Range              |  86 |    96   |     106    |       39 - 250  |   MHz  | Completed      |
 | Supply Voltage                      |   3 |   3.3   |      5.5   |            3.3  |    V   |       |
 | Output Load Capacitance             |     |   1     |         2  |             NI  |     pF |       |
 | Power Consumption                   |     |         |        50  |            475  |      uA|       |
-| Startup Time                        |     |         |        60  | Esstimated 400  |      us|       |
-| Lock Time                           |     |         |        60  | Esstimated 400  |      us|       |
+| Startup Time                        |     |         |        60  | Estimated 400  |      us|       |
+| Lock Time                           |     |         |        60  | Estimated 400  |      us|       |
 | Jitter                              |-300 |         |       300  |              1  |      ps|       |
 | Cycle To Cycle Jitter               |     |         |        93  |             NI  |      ps|       |
 | Output Duty Cycle                   |  45 |     50  |        55  |          47.06  |       %|       |
