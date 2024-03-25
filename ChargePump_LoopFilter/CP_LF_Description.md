@@ -11,7 +11,7 @@
 
 <img width="742" alt="image" src="https://github.com/huydo272/PLL_PBKIC/assets/84896940/ec2e6566-019a-4ca6-8b27-303283fcbc49">
 
-## Charge pump design and challenges:
+## Charge pump design and challenges
 
 ![image](https://github.com/huydo272/PLL_PBKIC/assets/84896940/1f4c7a8d-c736-4951-9a2c-6afe3d936917)
 
@@ -61,11 +61,9 @@
 - Transient Simulation Result:
 (Test scenario: 
 
-![image](https://github.com/huydo272/PLL_PBKIC/assets/84896940/8b5ee1fe-1797-49e9-bbb1-0a1e617a34bd)
+![image](https://github.com/huydo272/PLL_PBKIC/assets/84896940/9030812e-bbf2-4c0a-bd6a-97e070167b19)
 
-<img width="742" alt="image" src="https://github.com/huydo272/PLL_PBKIC/assets/84896940/1fdb3d98-c299-4ef5-a613-240d508a5e7a">
-
-![image](https://github.com/huydo272/PLL_PBKIC/assets/84896940/faeafa1b-96f7-4bc5-bca0-5bcd27dcacd5)
+![image](https://github.com/huydo272/PLL_PBKIC/assets/84896940/acdd5215-171e-461e-b519-6e3a8b40c480)
 
 
 
