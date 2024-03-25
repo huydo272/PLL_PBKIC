@@ -32,6 +32,9 @@
 
 ![test_top_PLL_v2](https://github.com/huydo272/PLL_PBKIC/assets/84896940/0ed168b3-c959-4ed9-bf96-26a3eab0032e)
 
+## Transfer function of Charge pump PLL
+<img width="767" alt="image" src="https://github.com/huydo272/PLL_PBKIC/assets/84896940/ef759e7a-f4e5-48dd-a038-bc2eec075478">
+
 ## Circuit Architecture
 
 The chosen PLL topology is based on the conventional type II PLL. The block diagram of the PLL is illustrated in Fig…, which includes: a Phase-Frequency Detector, a Charge pump, a Loop Filter, a Voltage controller and a N-Divider. The supposed PLL is designed for the SkyWater 130 nm process and VDD = 3.3V.
