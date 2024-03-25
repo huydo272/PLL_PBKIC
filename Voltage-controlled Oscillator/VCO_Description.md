@@ -26,8 +26,7 @@ Voltage Controlled Ring Oscillator
 
 - Kvco Calcultion
 
-
-![image](https://github.com/huydo272/PLL_PBKIC/assets/84896940/f0be1aa0-553d-46ff-8d57-39e4ae22d673)
+![image](https://github.com/huydo272/PLL_PBKIC/assets/119403170/8f57dc8d-0cf2-46a8-bded-31006ddffd14)
 
 
 We calculate the Kvco and get the result Kvco = 125 Mhz/V
