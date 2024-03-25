@@ -5,20 +5,20 @@
 - Member: Huy Do-Quang: huyquangdo2721999@gmail.com; Khoa Tran-Viet: khoabau8133@gmail.com; Minh Tran-Quang: minhtq9apn@gmail.com; Minh Nguyen-Duy: minhcrazy85@gmail.com; Anh Ha-Viet: havietanh45@gmail.com; Xuan Tran-Văn: tranxuanypbn17@gmail.com;
 
 ## Circuit Description
-| Parameter                           | Min | Typical | Max        | This work | Unit   | Estimation |
-| ----------------------------------- | --- | ------- | ---------- | --------- | ------ | ----- |
-| Output Frequency Range              |  86 |    96   |     106    |       39 - 250  |   MHz  | Completed      |
-| Supply Voltage                      |   3 |   3.3   |      5.5   |            3.3  |    V   |       |
-| Output Load Capacitance             |     |   1     |         2  |             NI  |     pF |       |
-| Power Consumption                   |     |         |        50  |            475  |      uA|       |
-| Startup Time                        |     |         |        60  | Estimated 400  |      us|       |
-| Lock Time                           |     |         |        60  | Estimated 400  |      us|       |
-| Jitter                              |-300 |         |       300  |              1  |      ps|       |
-| Cycle To Cycle Jitter               |     |         |        93  |             NI  |      ps|       |
-| Output Duty Cycle                   |  45 |     50  |        55  |          47.06  |       %|       |
-| Frequency Accuracy                  |-0.25|      0  |     -0.25  |             NI  |       %|       |
-| Output Rise/Fall Time               |  0.5|      1  |         2  |      0.49/0.36  |      ns|       |
-| Output Divider Value                |   1 |         |         8  |          1 - 8  |        |       |
+| Parameter                           | Min | Typical | Max        | This work | Unit   |
+| ----------------------------------- | --- | ------- | ---------- | --------- | ------ | 
+| Output Frequency Range              |  86 |    96   |     106    |       39 - 250  |   MHz  | 
+| Supply Voltage                      |   3 |   3.3   |      5.5   |            3.3  |    V   | 
+| Output Load Capacitance             |     |   1     |         2  |             2pf  |     pF | 
+| Power Consumption                   |     |         |        50  |            475  |      uA| 
+| Startup Time                        |     |         |        60  | Estimated 400  |      us|
+| Lock Time                           |     |         |        60  | Estimated 400  |      us|  
+| Jitter                              |-300 |         |       300  |              1  |      ps| 
+| Cycle To Cycle Jitter               |     |         |        93  |             NI  |      ps|  
+| Output Duty Cycle                   |  45 |     50  |        55  |          47.06  |       %| 
+| Frequency Accuracy                  |-0.25|      0  |     -0.25  |             NI  |       %|
+| Output Rise/Fall Time               |  0.5|      1  |         2  |      0.49/0.36  |      ns|
+| Output Divider Value                |   1 |         |         8  |          1 - 8  |        |   
 
 ## Circuit Pinout
 | Pinout | Pin name | Value | Unit |
