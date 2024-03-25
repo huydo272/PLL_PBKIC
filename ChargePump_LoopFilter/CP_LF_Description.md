@@ -3,7 +3,9 @@
 ## Desciption
 - Transfer function of Charge pump and Loop filter:
   
-<img width="767" alt="image" src="https://github.com/huydo272/PLL_PBKIC/assets/84896940/ef759e7a-f4e5-48dd-a038-bc2eec075478">
+![image](https://github.com/huydo272/PLL_PBKIC/assets/84896940/b8f77def-a4de-44b0-aa1c-7d7d5465b419)
+
+![image](https://github.com/huydo272/PLL_PBKIC/assets/84896940/24a0fe32-2ebc-428f-83a6-01fa19cbc773)
 
 - Circuit Architecture and Timing Diagram:
   
