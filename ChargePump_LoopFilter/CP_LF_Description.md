@@ -7,10 +7,6 @@
 
 ![image](https://github.com/huydo272/PLL_PBKIC/assets/84896940/24a0fe32-2ebc-428f-83a6-01fa19cbc773)
 
-- Circuit Architecture and Timing Diagram:
-  
-![image](https://github.com/huydo272/PLL_PBKIC/assets/84896940/87449091-e157-4218-a59d-82d3dc97f05d)
-
 ## Loop Filter Calculation
 
 - Loop Filter Calculation by PLLatinum TI at https://www.ti.com/tool/PLLATINUMSIM-SW#downloads: 
