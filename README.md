@@ -33,6 +33,9 @@
 ![test_top_PLL_v2](https://github.com/huydo272/PLL_PBKIC/assets/84896940/0ed168b3-c959-4ed9-bf96-26a3eab0032e)
 
 ## Transfer function of Charge pump PLL
+
+![image](https://github.com/huydo272/PLL_PBKIC/assets/84896940/a4993e87-39d0-47ca-9379-bc051bb41b69)
+
 <img width="767" alt="image" src="https://github.com/huydo272/PLL_PBKIC/assets/84896940/ef759e7a-f4e5-48dd-a038-bc2eec075478">
 
 ## Circuit Architecture
