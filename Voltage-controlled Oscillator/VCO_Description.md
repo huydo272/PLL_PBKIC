@@ -8,7 +8,7 @@ Voltage Controlled Ring Oscillator
 
 ## Sizing
 
-|Block|MOS|Size W:L|
+|Block|MOS|Size LxW|
 |--|--|--|
 |Ring Oscillator|PMOS: M2, M3, M5, M7, M9|0.5x3.43|
 ||NMOS: M1, M4, M6, M8, M10|0.5x1|
