@@ -4,6 +4,10 @@
 
 ![test_top_PLL_v2](https://github.com/huydo272/PLL_PBKIC/assets/84896940/0ed168b3-c959-4ed9-bf96-26a3eab0032e)
 
+## DC Simulation Results
+
+![image](https://github.com/huydo272/PLL_PBKIC/assets/84896940/04306d5b-6cf1-44d8-89d5-302d39274c31)
+
 ## Transient Simulation Results
 
 - V_OUT to V_REF and V_CTRL
