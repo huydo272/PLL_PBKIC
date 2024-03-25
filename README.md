@@ -48,7 +48,10 @@ The chosen PLL topology is based on the conventional type II PLL. The block diag
 The main difficulty in designing Progammable PLL is optimizing noise in each block to meet the requirements specification and the FoM of the PLL is approximately -198dB which approach the design spec of the commercial products. 
 
 ## Simulation information
-Our simultion covers mostly DC, Transient and Noise Analysis. 
+
+- https://github.com/huydo272/PLL_PBKIC/blob/main/Top_Circuit_Simulation_Results.md
+
+- Our simultion covers mostly DC, Transient and AC Analysis. The noise and PSS analysis are not available at the  moment.
 
 ## Sky130NM PDK Review
 We have researched and evaluated the software and PDK in depth, then concluded that:
