@@ -58,11 +58,16 @@
 ||R1|8.2|Ohm|
 
 ## Simulation
+
+<img width="557" alt="image" src="https://github.com/huydo272/PLL_PBKIC/assets/84896940/4dd965c3-0ddd-4bfe-9c52-5bf800cc1a26">
+
+We have a test bench that when UP = DOWN = 1 (both switches are on) then iout = (iCP high side - iCP low side) should be approximately 0 A. If not, the V_CTRL will go up to VDD. Reguarding to above figure, we have seen when UP = DOWN = 1, the V_CTRL goes to "next step" by the affection of "charge and hold" phenomenon in capacitors.
+
 - Transient Simulation Result:
 
-![image](https://github.com/huydo272/PLL_PBKIC/assets/84896940/9030812e-bbf2-4c0a-bd6a-97e070167b19)
+<img width="740" alt="image" src="https://github.com/huydo272/PLL_PBKIC/assets/84896940/f4584813-ea4a-4e4d-b449-bed3405cc10c">
 
-![image](https://github.com/huydo272/PLL_PBKIC/assets/84896940/acdd5215-171e-461e-b519-6e3a8b40c480)
+<img width="740" alt="image" src="https://github.com/huydo272/PLL_PBKIC/assets/84896940/12d8e6ee-1eeb-4246-aa89-3d5e98f11228">
 
 
 
