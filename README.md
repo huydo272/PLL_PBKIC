@@ -13,7 +13,7 @@
 | Power Consumption                   |     |         |        50  |            475  |      uA| 
 | Startup Time                        |     |         |        60  | Estimated 400  |      us|
 | Lock Time                           |     |         |        60  | Estimated 400  |      us|  
-| Jitter                              |-300 |         |       300  |              1  |      ps| 
+| Jitter                              |-300 |         |       300  | Estimated 1  |      ps| 
 | Cycle To Cycle Jitter               |     |         |        93  |             NI  |      ps|  
 | Output Duty Cycle                   |  45 |     50  |        55  |          47.06  |       %| 
 | Frequency Accuracy                  |-0.25|      0  |     -0.25  |             NI  |       %|
