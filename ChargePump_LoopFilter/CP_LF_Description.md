@@ -7,6 +7,14 @@
 
 ![image](https://github.com/huydo272/PLL_PBKIC/assets/84896940/24a0fe32-2ebc-428f-83a6-01fa19cbc773)
 
+## Schematic
+
+<img width="742" alt="image" src="https://github.com/huydo272/PLL_PBKIC/assets/84896940/ec2e6566-019a-4ca6-8b27-303283fcbc49">
+
+## Charge pump design and challenges:
+
+![image](https://github.com/huydo272/PLL_PBKIC/assets/84896940/1f4c7a8d-c736-4951-9a2c-6afe3d936917)
+
 ## Loop Filter Calculation
 
 - Loop Filter Calculation by PLLatinum TI at https://www.ti.com/tool/PLLATINUMSIM-SW#downloads: 
@@ -28,12 +36,6 @@
 ![image](https://github.com/huydo272/PLL_PBKIC/assets/84896940/3f6d432c-0c17-4547-8c6a-314fd60366b0) 
 
 ![image](https://github.com/huydo272/PLL_PBKIC/assets/84896940/074cd2bc-140f-49e6-b402-5cdea6709174)
-
-
-
-## Schematic
-
-<img width="742" alt="image" src="https://github.com/huydo272/PLL_PBKIC/assets/84896940/ec2e6566-019a-4ca6-8b27-303283fcbc49">
 
 ## Sizing (L = 0.5 um for all MOSFETs)
 
