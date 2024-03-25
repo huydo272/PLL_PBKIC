@@ -59,11 +59,7 @@
 
 ## Simulation
 - Transient Simulation Result:
-(Test scenario: 
 
-![image](https://github.com/huydo272/PLL_PBKIC/assets/84896940/9030812e-bbf2-4c0a-bd6a-97e070167b19)
-
-![image](https://github.com/huydo272/PLL_PBKIC/assets/84896940/acdd5215-171e-461e-b519-6e3a8b40c480)
 
 
 
