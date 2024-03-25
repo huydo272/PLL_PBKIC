@@ -9,7 +9,7 @@
 | ----------------------------------- | --- | ------- | ---------- | --------- | ------ | 
 | Output Frequency Range              |  86 |    96   |     106    |       39 - 250  |   MHz  | 
 | Supply Voltage                      |   3 |   3.3   |      5.5   |            3.3  |    V   | 
-| Output Load Capacitance             |     |   1     |         2  |             2pf  |     pF | 
+| Output Load Capacitance             |     |   1     |         2  |             2  |     pF | 
 | Power Consumption                   |     |         |        50  |            475  |      uA| 
 | Startup Time                        |     |         |        60  | Estimated 400  |      us|
 | Lock Time                           |     |         |        60  | Estimated 400  |      us|  
