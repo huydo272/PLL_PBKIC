@@ -6,7 +6,7 @@
 
 ## DC Simulation Results
 
-![image](https://github.com/huydo272/PLL_PBKIC/assets/84896940/04306d5b-6cf1-44d8-89d5-302d39274c31)
+![image](https://github.com/huydo272/PLL_PBKIC/assets/84896940/4f704fe1-0969-4aa4-9742-402f8a997829)
 
 ## Transient Simulation Results
 
