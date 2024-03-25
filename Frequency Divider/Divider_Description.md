@@ -17,6 +17,8 @@
 
 ## Simulation
 
+- Testbench: f_VIN = 96 MHz
+  
 - OUT1
 ![image](https://github.com/huydo272/PLL_PBKIC/assets/84896940/b4dc9422-02d2-42b2-bd96-f73711a3834c)
 
