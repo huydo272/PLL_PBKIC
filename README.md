@@ -15,10 +15,9 @@
 | Lock Time                           |     |         |        60  |     ~400  |      us|       |
 | Jitter                              |-300 |         |       300  |        1  |      ps|       |
 | Cycle To Cycle Jitter               |     |         |        93  |       NI  |      ps|       |
-| Output Duty Cycle                   |  45 |     50  |        55  |       NI  |       %|       |
+| Output Duty Cycle                   |  45 |     50  |        55  |    47.06  |       %|       |
 | Frequency Accuracy                  |-0.25|      0  |     -0.25  |       NI  |       %|       |
 | Output Rise/Fall Time               |  0.5|      1  |         2  |       NI  |      ns|       |
-| Feedback Divider Value              |   1 |         |    31.875  |       NI  |        |       |
 | Output Divider Value                |   1 |         |         8  |    1 - 8  |        |       |
 
 ## Circuit Pinout
