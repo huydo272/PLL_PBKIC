@@ -46,7 +46,7 @@ The Vctrl range for saturation current is from about 0.8 to 2.5V. In this range 
 ![image](https://github.com/huydo272/PLL_PBKIC/assets/146626889/ecdf9ab5-b443-47ee-9544-8de0c72bf973)
 
 At Vctrl = 1.65V, output:
-  frequency = 98.04 MHz
-  Rise time = 0.49 s
-  Fall time = 0,36 s
-  Duty cycle = 47.06%
++ frequency = 98.04 MHz
++ Rise time = 0.49 s
++ Fall time = 0,36 s
++ Duty cycle = 47.06%
