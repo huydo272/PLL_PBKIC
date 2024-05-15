@@ -7,10 +7,6 @@
 
 ![image](https://github.com/huydo272/PLL_PBKIC/assets/84896940/24a0fe32-2ebc-428f-83a6-01fa19cbc773)
 
-## Schematic
-
-<img width="742" alt="image" src="https://github.com/huydo272/PLL_PBKIC/assets/84896940/ec2e6566-019a-4ca6-8b27-303283fcbc49">
-
 ## Charge pump design and challenges
 
 ![image](https://github.com/huydo272/PLL_PBKIC/assets/84896940/1f4c7a8d-c736-4951-9a2c-6afe3d936917)
@@ -36,26 +32,6 @@
 ![image](https://github.com/huydo272/PLL_PBKIC/assets/84896940/3f6d432c-0c17-4547-8c6a-314fd60366b0) 
 
 ![image](https://github.com/huydo272/PLL_PBKIC/assets/84896940/074cd2bc-140f-49e6-b402-5cdea6709174)
-
-## Sizing (L = 0.5 um for all MOSFETs)
-
-|Block|MOS|W|Unit|
-|--|--|--|--|
-|Charge pump|M13, M14|2.4|um|
-||M8, M7|1.2|um|
-||M6|60|um|
-||M5, M3|18|um|
-||M9|71.2|um|
-||M10, M1|1.4|um|
-||M9|71.2|um|
-||M12, M2|18|um|
-||M4, M11|71.2|um|
-
-|Block|Component|Value|Unit|
-|--|--|--|--|
-|Loop filter|C1|8.2|nF|
-||C2|4700|nF|
-||R1|8.2|Ohm|
 
 ## Simulation
 
