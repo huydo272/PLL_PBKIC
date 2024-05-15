@@ -1,4 +1,4 @@
-# Charge pump & Loop filter
+# Charge pump & Loop filter Description
 
 ## Desciption
 - Transfer function of Charge pump and Loop filter:
