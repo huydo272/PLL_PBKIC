@@ -1,7 +1,3 @@
-## Phase Frequency Detector Schematic
-
-![image](https://github.com/huydo272/PLL_PBKIC/assets/84896940/484cd17e-3ee2-4d47-8c86-cf5b97978744)
-
 ## Sizing
 
 |MOS|Name|Size W/L|
