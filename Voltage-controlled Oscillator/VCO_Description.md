@@ -6,10 +6,6 @@ Current Starved Voltage Controlled Ring Oscillator
 - A series combination of R1 ~ 40K and a wide NMOS M28 with W/L ~ 100 is used which keeps Vgs always approximately Vth leads to bias current linearly related to Vctrl.
 - The current in M26 is mirrored M25 and M27 to control the current used in ring osscillator's inverter stages.​
 
-## Schematic
-
-![image](https://github.com/huydo272/PLL_PBKIC/assets/146626889/a2e0c277-ff99-4e6d-864c-fb54abcce965)
-
 ## Sizing
 
 | Block           | MOS                       | Size LxW             |
