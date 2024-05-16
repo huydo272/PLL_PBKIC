@@ -5,23 +5,6 @@ Current Starved Voltage Controlled Ring Oscillator
 - The current sources limit the current available to the inverter stage which controls the delay of an inverter.
 - A series combination of R1 ~ 40K and a wide NMOS M28 with W/L ~ 100 is used which keeps Vgs always approximately Vth leads to bias current linearly related to Vctrl.
 - The current in M26 is mirrored M25 and M27 to control the current used in ring osscillator's inverter stages.​
-
-## Sizing
-
-| Block           | MOS                       | Size LxW             |
-| --------------- | ------------------------- | -------------------- |
-| Ring Oscillator | PMOS: M2, M3, M5, M7, M9  | 0.5x3.43             |
-|                 | NMOS: M1, M4, M6, M8, M10 | 0.5x1                |
-| Bias Stage      | PMOS: M27                 | 0.5x2.2              |
-|                 | NMOS: M28                 | 0.75x90  ​            |
-|                 | PMOS: M26​                 | 0.5x9 ​               |
-|                 | NMOS: M25​                 | 0.5x1.8  ​            |
-|                 | Resistor: R2              ​| 90x0.1 (4.338e+04 Ω) |
-| Current Source​  | PMOS: M16 to M20​          | 0.5x9                ​|
-|                 | NMOS: M11 to M15          ​| 0.5x1.8              ​|
-| Buffer Inverter​ | PMOS: M23, 24             ​| 0.5x15               ​|
-|                 | NMOS: M 21, 22​            | 0.5x4                ​|
-
 ## Simulation
 
 - Kvco Calcultion
