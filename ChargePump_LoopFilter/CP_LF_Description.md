@@ -15,8 +15,6 @@
 
 - Loop Filter Calculation by PLLatinum TI at https://www.ti.com/tool/PLLATINUMSIM-SW#downloads: 
 
-![image](https://github.com/huydo272/PLL_PBKIC/assets/84896940/c76528fc-39ef-4682-9fb3-7c7684db4676)
-
 - PLL's Phase Noise at 96 MHz:
 
 ![image](https://github.com/huydo272/PLL_PBKIC/assets/84896940/0ea404fd-13b4-4d25-9727-db44d050a4cc)
@@ -44,6 +42,7 @@ We have a test bench that when UP = DOWN = 1 (both switches are on) then iout = 
 <img width="740" alt="image" src="https://github.com/huydo272/PLL_PBKIC/assets/84896940/f4584813-ea4a-4e4d-b449-bed3405cc10c">
 
 <img width="740" alt="image" src="https://github.com/huydo272/PLL_PBKIC/assets/84896940/12d8e6ee-1eeb-4246-aa89-3d5e98f11228">
+
 
 
 
