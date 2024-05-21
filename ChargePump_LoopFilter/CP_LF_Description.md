@@ -7,9 +7,6 @@
 
 ![image](https://github.com/huydo272/PLL_PBKIC/assets/84896940/24a0fe32-2ebc-428f-83a6-01fa19cbc773)
 
-## Charge pump design and challenges
-
-![image](https://github.com/huydo272/PLL_PBKIC/assets/84896940/1f4c7a8d-c736-4951-9a2c-6afe3d936917)
 
 ## Loop Filter Calculation
 
